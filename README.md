@@ -66,4 +66,4 @@
 | 날짜 | 문제 | 완료 |
 | --- | --- | --- |
 | 3월 13일(월) | [모든 데이터 조회하기](https://solvesql.com/problems/select-all/), [일부 데이터 조회하기](https://solvesql.com/problems/select-where/), [데이터 정렬하기](https://solvesql.com/problems/order-by/) |  |
-| 3월 20일(월) | [특정 컬럼만 조회하기](https://github.com/seunGit/SQL-Study/blob/main/20230320/%ED%8A%B9%EC%A0%95%20%EC%BB%AC%EB%9F%BC%EB%A7%8C%20%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0%20.md) / [두 테이블 결합하기](https://github.com/seunGit/SQL-Study/blob/main/20230320/%EB%91%90%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EA%B2%B0%ED%95%A9%ED%95%98%EA%B8%B0%20.md) / [데이터 그룹으로 묶기](https://github.com/seunGit/SQL-Study/blob/main/20230320/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B7%B8%EB%A3%B9%EC%9C%BC%EB%A1%9C%20%EB%AC%B6%EA%B8%B0%20.md)  | |
+| 3월 20일(월) | [특정 컬럼만 조회하기](https://solvesql.com/problems/select-column/) / [두 테이블 결합하기](https://solvesql.com/problems/join/) / [데이터 그룹으로 묶기](https://solvesql.com/problems/group-by/) / [레스토랑 웨이터의 팁 분석](https://solvesql.com/problems/tip-analysis/) / [몇 분이서 오셨어요?](https://solvesql.com/problems/size-of-table/)  | |
