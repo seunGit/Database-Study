@@ -55,3 +55,4 @@
 |:---:|---|:---:|
 | 3월 13일(월) | [모든 데이터 조회하기](https://solvesql.com/problems/select-all/), [일부 데이터 조회하기](https://solvesql.com/problems/select-where/), [데이터 정렬하기](https://solvesql.com/problems/order-by/) |✅|
 | 3월 20일(월) | [특정 컬럼만 조회하기](https://solvesql.com/problems/select-column/) / [두 테이블 결합하기](https://solvesql.com/problems/join/) / [데이터 그룹으로 묶기](https://solvesql.com/problems/group-by/) / [레스토랑 웨이터의 팁 분석](https://solvesql.com/problems/tip-analysis/) / [몇 분이서 오셨어요?](https://solvesql.com/problems/size-of-table/)  | |
+| 3월 27일(월) |[우리 플랫폼에 정착한 판매자1](https://solvesql.com/problems/settled-sellers-1/)||
