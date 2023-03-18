@@ -21,8 +21,14 @@
 ```
 
 **승기**
+- `substr(문자열, 시작위치, 길이)` : oracle 문자열 자르기
+- `substring(문자열, 시작위치, 길이)` : mysql 문자열 자르기
+- `upper()` : 대문자 변환
+- `lower()` : 소문자 변환
 ```sql
-
+select year, substr(upper(city), 1,3) as city
+from games group by year
+having year>=2000 order by year desc;
 ```
 
 **연수**
