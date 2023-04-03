@@ -17,7 +17,13 @@
 ```   
 
 **승기**
+- `max()` : 최대값 출력
+- 모든 컬럼(`*`), 요일별 출력(`group by`), 가장 높은 금액(`max()`)
+- 위 세가지 항목을 충족시키면 된다.
 ```sql
+select * from tips
+group by day
+order by max(total_bill) desc
 ```
 
 **연수**
