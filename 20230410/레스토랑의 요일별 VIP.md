@@ -29,6 +29,9 @@ order by max(total_bill) desc
 **연수**
 
 ```sql
+SELECT * FROM tips
+GROUP BY day
+ORDER BY max(total_bill) desc
 ```
 
 **형준**
