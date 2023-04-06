@@ -31,7 +31,7 @@ order by max(total_bill) desc
 ```sql
 SELECT * FROM tips
 GROUP BY day
-ORDER BY max(total_bill) desc
+ORDER BY max(total_bill) DESC
 ```
 
 **형준**
